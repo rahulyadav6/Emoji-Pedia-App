@@ -111,6 +111,174 @@ const emojipedia = [
         meaning:
           "Used when one is about to have a delicious meal, or already had one“."
     },
+    {
+        id: 17,
+        emoji: "😛",
+        name: "Stuck out tongue",
+        meaning:
+          "This conveys a sense of excitement, fun and cuteness“."
+    },
+    {
+        id: 18,
+        emoji: "😜",
+        name: "Stuck out tongue winking eye",
+        meaning:
+          "Used when just casually kidding around with jokes and funny conversations“."
+    },
+    {
+        id: 19,
+        emoji: "😐️",
+        name: "Neutral face",
+        meaning:
+          "When the other person doesn’t get the joke but can also be used in context to concern for someone“."
+    },
+    {
+        id: 20,
+        emoji: "😑",
+        name: "Expressionless",
+        meaning:
+          "The flat eyes and mouth convey a sense of frustration or disappointment“."
+    },
+    {
+        id: 21,
+        emoji: "🤔",
+        name: "Thinking face",
+        meaning:
+          "Depicts going into a deep state of thinking“."
+    },
+    {
+        id: 22,
+        emoji: "🤫",
+        name: "Shushing face",
+        meaning:
+          "When the chat has gone with loads of messages and you want to make everyone quiet“."
+    },
+    {
+        id: 23,
+        emoji: "🤗",
+        name: "Hugging face",
+        meaning:
+          "This emoji depicts a sense of affection for someone“."
+    },
+    {
+        id: 24,
+        emoji: "🤐",
+        name: "Zipper mouth face",
+        meaning:
+          "Used when secrets and promises are to be kept among only certain number of people“."
+    },
+    {
+        id: 25,
+        emoji: "🤑",
+        name: "Money mouth face",
+        meaning:
+          "This emoji conveys the feeling of getting a good sum of money“."
+    },
+    {
+        id: 26,
+        emoji: "😶",
+        name: "No mouth",
+        meaning:
+          "This conveys the situations when one has no words to speak due to being disappointment in a positive or negative way“."
+    },
+    {
+        id: 27,
+        emoji: "😏",
+        name: "Smirk",
+        meaning:
+          "The emoji to use when you’ve achieved something great and can’t wait to boast about it“."
+    },
+    {
+        id: 28,
+        emoji: "😒",
+        name: "Unamused face",
+        meaning:
+          "Generally related to negative emotions. This emoji conveys grumpiness or irritation towards someone or something“."
+    },
+    {
+        id: 29,
+        emoji: "🙄",
+        name: "Face with rolling eyes",
+        meaning:
+          "Used when the other person says something obvious or too dumb“."
+    },
+    {
+        id: 30,
+        emoji: "😬",
+        name: "Grimacing face",
+        meaning:
+          "The wide-open mouth and clenched teeth depict awkwardness or nervousness“."
+    },
+    {
+        id: 31,
+        emoji: "🤥",
+        name: "Lying face",
+        meaning:
+          "taken straight from the fictional character Pinocchio, this emoji depicts lying“."
+    },
+    {
+        id: 32,
+        emoji: "😌",
+        name: "Relieved face",
+        meaning:
+          "This emoji depicts a sense of calmness, peace or satisfaction“."
+    },
+    {
+        id: 33,
+        emoji: "😔",
+        name: "Pensive face",
+        meaning:
+          "An emoji used to describe a state of pain and sorrow“."
+    },
+    {
+        id: 34,
+        emoji: "😴",
+        name: "Sleeping face",
+        meaning:
+          "One can use this emoji to convey “good night” to a chat“."
+    },
+    {
+        id: 35,
+        emoji: "😪",
+        name: "Sleepy face",
+        meaning:
+          "The emoji depicts the feeling of exhaustion after a long tiring day“."
+    },
+    {
+        id: 36,
+        emoji: "🤤",
+        name: "Drooling face",
+        meaning:
+          "This emoji denotes the irresistibility over a yummy food“."
+    },
+    {
+        id: 37,
+        emoji: "😷",
+        name: "Face with medical mask",
+        meaning:
+          "This describes the wearing of a mask to protect from viruses and airborne diseases“."
+    },
+    {
+        id: 38,
+        emoji: "🤒",
+        name: "Face with thermometer",
+        meaning:
+          "This emoji depicts a sick person“."
+    },
+    {
+        id: 39,
+        emoji: "🤕",
+        name: "Face with head bandage",
+        meaning:
+          "The emoji denotes a bad head injury“."
+    },
+    {
+        id: 40,
+        emoji: "🤢",
+        name: "Nauseated Face",
+        meaning:
+          "The face depicting ‘about to throw up’“."
+    },
   ];
 
   export default emojipedia;
