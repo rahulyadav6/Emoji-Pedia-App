@@ -41,6 +41,76 @@ const emojipedia = [
         meaning:
           "Taken straight from cartoons, the hearted eyes emoji is used to convey feelings of love and attraction“."
     },
+    {
+        id: 7,
+        emoji: "😆",
+        name: "Laughing",
+        meaning:
+          "The emoji depicts laughter often used to react towards something hilarious“."
+    },
+    {
+        id: 8,
+        emoji: "😅",
+        name: "Sweat smile",
+        meaning:
+          "Used to depict a close call but is also often used in awkward situations during a chat“."
+    },
+    {
+        id: 9,
+        emoji: "🙂",
+        name: "Slightly smiling face",
+        meaning:
+          "An emoji which can have two or more meanings to it such as being positive, happy or patronizing and being ironic“."
+    },
+    {
+        id: 10,
+        emoji: "🙃",
+        name: "Upside down face",
+        meaning:
+          "The emoji depicts being silly and sarcastic“."
+    },
+    {
+        id: 11,
+        emoji: "😉",
+        name: "Wink",
+        meaning:
+          "This emoji signals a joke or a hidden meaning which when used won’t be understood by many“."
+    },
+    {
+        id: 12,
+        emoji: "😊",
+        name: "Blush",
+        meaning:
+          "This emoji expresses extreme happiness and positive feelings“."
+    },
+    {
+        id: 13,
+        emoji: "😇",
+        name: "Innocent",
+        meaning:
+          "This emoji means being as innocent and pure as an angel“."
+    },
+    {
+        id: 14,
+        emoji: "😘",
+        name: "Kissing heart",
+        meaning:
+          "The emoji is used to convey a goodbye to a very close one“."
+    },
+    {
+        id: 15,
+        emoji: "😚",
+        name: "Kissing closed eyes",
+        meaning:
+          "The pink cheeks and puckered lips on this emoji convey sentiments of love and affection“."
+    },
+    {
+        id: 16,
+        emoji: "😋",
+        name: "Yum",
+        meaning:
+          "Used when one is about to have a delicious meal, or already had one“."
+    },
   ];
 
   export default emojipedia;
